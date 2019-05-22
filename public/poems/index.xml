@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>po·ems on rad·i·cal</title>
+    <link>/poems/</link>
+    <description>Recent content in po·ems on rad·i·cal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 16:34:41 -0500</lastBuildDate>
+    
+	<atom:link href="/poems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my brother</title>
+      <link>/poems/brother/</link>
+      <pubDate>Mon, 20 May 2019 16:34:41 -0500</pubDate>
+      
+      <guid>/poems/brother/</guid>
+      <description>i had a little brother
+who was misunderstood
+he would color in the corner
+when things were going good
+when things turned bad or he got mad
+you&amp;rsquo;d better stay away
+he would try real hard to be like me
+but somewhere lost his way
+after prison he went really bad
+now he is gone for good
+i miss him still</description>
+    </item>
+    
+    <item>
+      <title>happy to be unhappy</title>
+      <link>/poems/happytobe/</link>
+      <pubDate>Sun, 19 May 2019 13:58:20 -0500</pubDate>
+      
+      <guid>/poems/happytobe/</guid>
+      <description>sitting bored is killing me
+obviously i don&amp;rsquo;t mind
+wouldn&amp;rsquo;t i get up and go
+why do i keep sitting here
+i can&amp;rsquo;t keep doing this
+i am not happy here
+it is time to go</description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>/poems/starting/</link>
+      <pubDate>Sat, 18 May 2019 22:31:41 -0500</pubDate>
+      
+      <guid>/poems/starting/</guid>
+      <description>staring at a blank page is uncomfortable
+how to bring it to life
+will it ever reach it&amp;rsquo;s potential
+ideas that danced through my mind moments ago
+left town in a hurry
+didn&amp;rsquo;t leave a forwarding address
+my mind wanders like a drunk in a dark alley
+bouncing off the hard edges
+maybe this page is destined for the dumpster</description>
+    </item>
+    
+  </channel>
+</rss>
