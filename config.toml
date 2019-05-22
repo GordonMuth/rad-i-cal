@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "dom·i·cile"                           # What to call the home page link
-    footerText           = "words can build rad·i·cal things"
+    footerText           = "&copy; 2019 rad·i·cal.com"
 
 # Metadata for Open Graph and Twitter
     description          = "a place to park some words"               # Max 160 characters show in search results
