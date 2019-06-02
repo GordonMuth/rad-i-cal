@@ -1,5 +1,5 @@
 ---
-title: "my brother"
+title: "brother"
 date: 2019-05-20T16:34:41-05:00
 draft: false
 ---
