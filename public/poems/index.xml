@@ -6,10 +6,27 @@
     <description>Recent content in po·ems on rad·i·cal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 16:34:41 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 08:07:25 -0500</lastBuildDate>
     
 	<atom:link href="/poems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>created</title>
+      <link>/poems/created/</link>
+      <pubDate>Sun, 02 Jun 2019 08:07:25 -0500</pubDate>
+      
+      <guid>/poems/created/</guid>
+      <description>when i consider the magic in the natural world
+the complex systems take me to a place of wonder
+who could have imagined the fantastic mechanics
+that move our planet round the sun like clockwork
+who could have imagined the diverse lifeforms
+each performing biological functions flawlessly
+who could have imagined the complex chemistry
+that fuels all life at the cellular level
+who could have imagined it all so beautifully</description>
+    </item>
     
     <item>
       <title>my brother</title>
